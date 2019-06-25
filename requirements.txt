@@ -1,6 +1,6 @@
 numpy==1.15.4
-torchvision
-torch==1.0.54
+torchvision==0.3.0
+torch
 fastai==1.0.54
 starlette==0.11.4
 uvicorn==0.3.32
